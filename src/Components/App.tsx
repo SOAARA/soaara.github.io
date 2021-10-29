@@ -1,12 +1,12 @@
 import React from 'react'
-import '../styles/global.scss'
+import Page from './Home'
 import AppRouter from './Router'
 
-const App= () => {
-  
+const App=()=>{
   return(
     <>
-      <AppRouter/>
+      <AppRouter />
+      <Page/>
     </>
   )
 }

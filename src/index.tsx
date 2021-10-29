@@ -1,8 +1,7 @@
 /* eslint-disable import/no-amd */
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './Components/App'
-import reportWebVitals from './reportWebVitals'
+import App from './Components/Home'
 import './styles/global.scss'
 
 
